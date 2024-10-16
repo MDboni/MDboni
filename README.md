@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MD BONI AMIN JAYED(COMPUER ENGINEER)</h1>
+<h1 align="center">Hi 👋, I'm MD BONI AMIN JAYED(COMPUTER ENGINEER)</h1>
 <h3 align="center">PROGRAMMAR</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdboni&label=Profile%20views&color=0e75b6&style=flat" alt="mdboni" /> </p>
