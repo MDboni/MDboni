@@ -15,6 +15,7 @@
 
 <h2>🚀 About Me</h2>
 
+- 🎓 Graduated from **Jain University, Bengaluru** — **B.Tech in Computer Science & Engineering (CSE)**
 - 🌱 Currently working as a **Software Engineer**
 - 👨‍💻 All of my projects are available at: **[Portfolio](https://mdboni.github.io/ProtFolioBoni/)**
 - 💬 Ask me about: **JavaScript, React, Next.js, Node.js, SQL, PostgreSQL**
