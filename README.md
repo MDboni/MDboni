@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdboni" alt="mdboni" /></a> </p>
 
-- 🌱 I’m currently learning **MERN STACK WITH NODE JS , MONGODB**
+- 🌱 Software Engineer
 
 - 👨‍💻 All of my projects are available at [aminboni.com](aminboni.com)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **aminboni048@gmail.com**
 
-- ⚡ Fun fact **I think a'm funny**
+- ⚡ Fun fact **I think a'm Entrepreneurial**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
