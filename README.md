@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Full Stack Developer | Computer Engineer</h3>
 
 <p align="center">
-  <a href="https://aminboni.com" target="_blank"><b>🌐 Portfolio</b></a> •
+  <a href="https://mdboni.github.io/ProtFolioBoni/" target="_blank"><b>🌐 Portfolio</b></a> •
   <a href="mailto:aminboni048@gmail.com"><b>📩 Email</b></a> •
   <a href="https://www.linkedin.com/in/bonijayed/" target="_blank"><b>💼 LinkedIn</b></a>
 </p>
@@ -16,20 +16,10 @@
 <h2>🚀 About Me</h2>
 
 - 🌱 Currently working as a **Software Engineer**
-- 👨‍💻 All of my projects are available at: **[aminboni.com](https://aminboni.com)**
-- 💬 Ask me about: **JavaScript, React, Node.js, SQL, PostgreSQL**
+- 👨‍💻 All of my projects are available at: **[Portfolio](https://mdboni.github.io/ProtFolioBoni/)**
+- 💬 Ask me about: **JavaScript, React, Next.js, Node.js, SQL, PostgreSQL**
 - 📫 Reach me at: **aminboni048@gmail.com**
 - ⚡ Fun Fact: **I love building products & I have an entrepreneurial mindset**
-
----
-
-<h2>🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mdboni&theme=onedark&no-frame=true&row=1&column=7" alt="mdboni" />
-  </a>
-</p>
 
 ---
 
@@ -44,7 +34,7 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="35" width="45" />
 </a>
 
-<a href="https://web.facebook.com/aminboni0/" target="blank">
+<a href="https://www.facebook.com/aminboni037/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="35" width="45" />
 </a>
 
@@ -64,6 +54,10 @@
 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/>
+  </a>
+
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="45" height="45"/>
   </a>
 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
@@ -88,10 +82,6 @@
 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="45" height="45"/>
-  </a>
-
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="45" height="45"/>
   </a>
 
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
